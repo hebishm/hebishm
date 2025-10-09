@@ -1,36 +1,44 @@
-# Hebish M - Smart Contract & Web3 Developer
+# Hebish M – Front-End Developer (HTML & CSS)
 
-💼 GitHub: [https://github.com/hebishm](https://github.com/hebishm)
-
----
-
-## About Me
-Focused Web3 developer specializing in **ERC-20 token contracts** and **dApp front-end integration** using HTML & CSS. Experienced in deploying, verifying, and testing smart contracts on **BSC Testnet and Mainnet**. Passionate about secure, transparent, and gas-optimized solutions.
+💼 **GitHub:** [https://github.com/hebishm](https://github.com/hebishm)  
+🌐 **Subdomain:** [https://habisha.vercel.app/](https://habisha.vercel.app/)
 
 ---
 
-## Skills
-- Solidity (ERC-20 / Token Contracts)  
-- BSC Deployment & Verification  
-- Web3 Integration (MetaMask, Remix)  
-- HTML & CSS Front-end Design  
-- Contract Security & Gas Optimization  
+## 🧠 About Me  
+Creative front-end developer focused on building elegant, responsive, and user-friendly websites using **HTML & CSS**.  
+Passionate about clean design, performance, and simplicity in user experience.  
+Experienced in turning ideas into smooth, modern web interfaces ready for all screen sizes.
 
 ---
 
-## Projects
-**LaboboToken (BSC Testnet)** – [0x61af6F560E44f85607437A15E9C45Bf678e435f2](https://testnet.bscscan.com/address/0x61af6F560E44f85607437A15E9C45Bf678e435f2)  
-- ERC-20 token with *mint, burn, and owner control*  
-- Successfully tested transfers and allowances on BSC Testnet  
+## 🧩 Skills  
+- HTML5 / Semantic Structure  
+- CSS3 / Responsive Design  
+- Flexbox & Grid Layouts  
+- Website Deployment (Vercel / GitHub Pages)  
+- UI Consistency & Performance Optimization  
 
 ---
 
-## Goals
-- Build robust **ERC-20 tokens** and decentralized applications  
-- Deliver **secure, transparent, and efficient smart contracts**  
-- Expand **Web3 & front-end development skills**  
+## 🧱 Projects  
+**Portfolio Page** – [https://abu-aisha-koskosi.vercel.app/](https://abu-aisha-koskosi.vercel.app/)  
+- Custom page design focused on minimalism and responsive layout  
+- Demonstrates attention to detail, spacing, and modern UI structure  
 
 ---
 
-## Personal Note
-"Let's play the music of Solidity 🌍"
+## 🎯 Goals  
+- Build visually appealing and mobile-friendly websites  
+- Improve CSS animation and layout design skills  
+- Deliver clean, maintainable front-end code  
+- Expand expertise into JavaScript for interactivity  
+
+---
+
+## ✨ Personal Note  
+> “Let's play the music of clean design 🎨”
+
+---
+
+© 2025 **Hebish M** – All Rights Reserved.
