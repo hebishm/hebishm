@@ -1,4 +1,4 @@
-# Hebish M – Front-End Developer (HTML & CSS)
+# Hebish M – Front-End Developer (HTML & CSS) & solidity
 
 💼 **GitHub:** [https://github.com/hebishm](https://github.com/hebishm)  
 🌐 **Subdomain:** [https://habisha.vercel.app/](https://habisha.vercel.app/)
