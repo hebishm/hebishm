@@ -16,13 +16,15 @@ Experienced in turning ideas into smooth, modern web interfaces ready for all sc
 - HTML5 / Semantic Structure  
 - CSS3 / Responsive Design  
 - Flexbox & Grid Layouts  
-- Website Deployment (Vercel / GitHub Pages)  
+- Website Deployment (Vercel / GitHub Pages)
+- Solidity 
 - UI Consistency & Performance Optimization  
 
 ---
 
 ## 🧱 Projects  
 **Portfolio Page** – [https://abu-aisha-koskosi.vercel.app/](https://abu-aisha-koskosi.vercel.app/)  
+Hotdog (HOTD) — Decentralized Token Proof-of-Concept on Polygon
 - Custom page design focused on minimalism and responsive layout  
 - Demonstrates attention to detail, spacing, and modern UI structure  
 
